@@ -1596,23 +1596,24 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      |  |   | Reunión Virtual en Discord   |  |                    |
+| 3      | 10/16/2024 | 12:00 pm  | Reunión Virtual en Discord   | Rodrigo Alcántara | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
 
 | Sprint 3 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
-|                        |
+|    Se logró mejorar el Gitflow del proyecto en base a la retroalimentación que brindo el profesor y se elaboró la primera versión del backend                    |
 
 | Sprint 3 - Retrospective Summary                                                          |
 |-------------------------------------------------------------------------------------------|
-|                                             |
+|      Se logró cumplir con el objetivo del Sprint 2                                       |
 
 | Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
-|                     |                  |                   |
+|      Mejorar el Gitflow del proyecto y terminar la primera versión del backend              |     5             |        12           |
 
 
 ### 5.2.3.2. Sprint Backlog 3
 
+En el Sprint Backlog número 3 se encuentra todas las tareas dadas para el Sprint 3. Para la organización usamo el software de Trello, donde se ven los resultados de cada uno. (link trello)
 
 | **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
